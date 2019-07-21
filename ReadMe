@@ -1,0 +1,8 @@
+Read Me:
+authors: Nizar Ghandri, Oscar Pitcho 
+
+
+1) On est arrivé jusqu'au write qu'on a pas tout à fait terminer d'implementer. Notre read, bien qu'il suit la bonne logique, ne passe pas les tests et on avait pas les bons outils pour le debbuguer, vu que les outputs des tests dockers nous permettent pas d'afficher nos debbuging messages. 
+
+2) On estime avoir passé sur ce projet 6 à 7h par semaine. Bien qu'il soit prévu qu'on y passe 4h. Malheuresement, ces 6 à 7h par semaines n'étaient pas toutes investies dans le projet, c'était plutot les problemes techniques style utilisation du docker qui ont posé probleme. 
+
